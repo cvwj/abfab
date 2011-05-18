@@ -4,5 +4,4 @@ class PageTemplate {
 
     static constraints = {
     }
-    // comment in branch
 }
