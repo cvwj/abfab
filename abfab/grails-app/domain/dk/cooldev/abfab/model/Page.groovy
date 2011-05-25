@@ -1,6 +1,6 @@
 package dk.cooldev.abfab.model
 
-class PageTemplate {
+class Page {
 
     static constraints = {
     }
